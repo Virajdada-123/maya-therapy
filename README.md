@@ -74,6 +74,7 @@ maya-therapy/
 └── README.md
 
 Getting Started
+
 1. Clone the repository
 git clone https://github.com/Virajdada-123/maya-therapy.git
 cd maya-therapy
@@ -85,8 +86,8 @@ npm install
 npm run dev
 
 Open:
-
 http://localhost:3000
+
 4. Create a production build
 npm run build
 
@@ -110,7 +111,6 @@ A dedicated Our Office section was also added to satisfy the project requirement
 
 Responsive Design
 The layout is designed to work across:
-
 Desktop
 Tablet
 Mobile
@@ -124,6 +124,7 @@ Semantic HTML elements
 Accessible navigation buttons
 Responsive text sizing
 Clear navigation structure
+
 Deployment
 The application is deployed using Vercel and connected directly to the GitHub repository.
 
